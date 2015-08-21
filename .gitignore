@@ -1,0 +1,4 @@
+*variables.tf
+*.tfstate
+*.tfstate.backup
+*.Sublime-project
